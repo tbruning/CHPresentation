@@ -72,4 +72,4 @@ Whether you do, or not, someone else looking at your data will.
 
 - Think about alternative analysis
 
-![Alt text]("~/Downloads/Deck/civic_hack/assets/img/ss_errors.png")
+![Alt text]("https://github.com/tbruning/civic_hack/blob/gh-pages/ss_errors.png")
