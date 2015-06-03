@@ -19,7 +19,7 @@ knit        : slidify::knit2slides
 
 
 - Replication is often times impossible
---
+
 - Validation of <span style="color:green; font-weight:bold">your</span> methods
 
 - Validation of <span style="color:green; font-weight:bold">your</span>  data
@@ -50,6 +50,7 @@ knit        : slidify::knit2slides
 
 ---
 ## Challenge Results
+
 Whether you do, or not, someone else looking at your data will.
 
 - Challenge your steps
