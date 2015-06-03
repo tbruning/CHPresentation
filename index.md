@@ -72,4 +72,4 @@ Whether you do, or not, someone else looking at your data will.
 
 - Think about alternative analysis
 
-![Alt text]("~/Downloads/Deck/civic_hack/assets/img/ss_errors.png")
+![Market Watch]("home/tgb/Downloads/Decks/civic_hack/ss_errors.png")
