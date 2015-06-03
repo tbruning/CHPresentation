@@ -13,7 +13,6 @@ knit        : slidify::knit2slides
    
 # Reproducibility
     
-
 ---
 ## Why Reproducibility
 
@@ -72,3 +71,5 @@ Whether you do, or not, someone else looking at your data will.
 - Challenge choices of terms to include in analysis
 
 - Think about alternative analysis
+
+![Alt text]("~/Downloads/Deck/civic_hack/assets/img/ss_errors.png")
