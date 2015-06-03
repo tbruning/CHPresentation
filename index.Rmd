@@ -61,7 +61,7 @@ Whether you do, or not, someone else looking at your data will.
 
   - Your analysis
 
-  - Your conclusions
+  - Your conclusions 
 
 ---
 ## Challenge Results (cont)
