@@ -3,7 +3,7 @@ title       : Reproducibility
 subtitle    : 
 author      : Tom Bruning
 job         : 
-framework   : revealjs  # {io2012, html5slides, shower, dzslides, ...}
+framework   : io2012  # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow     # 
 widgets     : []            # {mathjax, quiz, bootstrap}
@@ -70,7 +70,7 @@ Whether you do, or not, someone else looking at your data will.
 
 - Challenge choices of terms to include in analysis
 
-- Think about alternative analysi
+- Think about alternative analysis
 
 ---
 
