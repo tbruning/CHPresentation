@@ -13,6 +13,7 @@ knit        : slidify::knit2slides
    
 # Reproducibility
     
+Slide 1
 
 ---
 ## Why Reproducibility
