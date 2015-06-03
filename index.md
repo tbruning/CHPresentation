@@ -70,6 +70,8 @@ Whether you do, or not, someone else looking at your data will.
 
 - Challenge choices of terms to include in analysis
 
-- Think about alternative analysis
+- Think about alternative analysi
 
-![Market Watch]("/assets/img/ss_errors.png")
+---
+
+![Market Watch]("./assets/img/ss_errors.png")
