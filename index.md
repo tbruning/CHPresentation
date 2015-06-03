@@ -55,7 +55,7 @@ Whether you do, or not, someone else looking at your data will.
 
 - Challenge your steps
 
-  - Your initial question
+  - <span style="color:green; font-weight:bold">Your</span> initial question
 
   - The data source
 
