@@ -17,7 +17,6 @@ knit        : slidify::knit2slides
 ---
 ## Why Reproducibility
 
-
 - Replication is often times impossible
 
 - Validation of <span style="color:green; font-weight:bold">your</span> methods
