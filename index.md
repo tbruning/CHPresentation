@@ -72,4 +72,4 @@ Whether you do, or not, someone else looking at your data will.
 
 - Think about alternative analysis
 
-![Market Watch]("/images/ss_errors.png")
+![Market Watch]("./assets/img/ss_errors.png")
